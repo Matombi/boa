@@ -1,0 +1,3 @@
+Dollrs
+Euros
+Franc Congolais
